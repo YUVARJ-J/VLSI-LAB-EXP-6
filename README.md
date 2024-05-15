@@ -1,8 +1,7 @@
 EXPT:6
 # SCHEMATIC ENTRY AND SIMULATION OF CMOS INVERTER, CMOS NAND and CMOS NOR USING CADENCE TOOL
 
-DATE:30.04.2024
-
+DATE:30.04.2024/
      07.05.2024
 
 AIM:
@@ -10,9 +9,10 @@ To design and simulate the CMOS inverter and observe the DC and transient respon
 cadence tool.
 
 APPARATUS REQUIRED:
+```
 1.Laptop with MobaXterm
 2.Cadence tool 
-
+```
 PROCEDURE
 
 SCHEMATIC ENTRY:
